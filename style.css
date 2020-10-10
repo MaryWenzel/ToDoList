@@ -1,0 +1,14 @@
+.incomplete {
+  color: red;
+}
+
+.complete {
+  color: teal;
+}
+body {
+  margin: auto;
+  width: 40%;
+  font-size: 20px;
+  font-family: "Source Sans Pro", sans-serif;
+  line-height: 1.5em;
+}
